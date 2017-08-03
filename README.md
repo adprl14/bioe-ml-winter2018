@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Bioengr 188: Machine learning & data-driven modeling in bioengineering
 
-You can use the [editor on GitHub](https://github.com/Meyer-class/bioe-ml-winter2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Course ID#: XXX-XXX-XXX (Dis 1A)
+(Course counts as elective towards degree requirements)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prerequisite: Prior programming experience
 
-### Markdown
+Lecture		
+Days: Tuesdays & Thursdays
+Time: 2:00 – 3:50pm
+Location: XXXX Boelter Hall
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Discussion/Laboratory
+Dis 1A:  Fridays
+Time: 2:00pm – 3:50pm  
+Location: XXXX Boelter Hall
 
-```markdown
-Syntax highlighted code block
+Instructor: Prof. Aaron Meyer
 
-# Header 1
-## Header 2
-### Header 3
+**Course Description:** Manipulating biological systems requires techniques to interpret complex measurements. This project-based class will introduce techniques for inferring biological meaning from experimental measurements using computational and analytical techniques. The objectives of this course are (1) to give students a working knowledge of techniques for rigorously analyzing complex data sources, (2) to illustrate the frontier and open challenges in computational systems biology and bioengineering, and (3) to ensure familiarity with the necessary tools to effectively apply computation as part of an individual or group research effort. Lectures will introduce foundational applied machine learning and statistics techniques. Laboratory session will involve hands-on implementations from recent literature. Homework will be primarily project-based using recent literature-derived applications. There will be a midterm exam and final design project. The final projects will involve novel analysis of data derived from the literature using techniques from the course. Instructors will guide focus and development of the project.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Meyer-class/bioe-ml-winter2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact: Professor Aaron Meyer  
+Department of Bioengineering  
+Email: ameyer@ucla.edu
