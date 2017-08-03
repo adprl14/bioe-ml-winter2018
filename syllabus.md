@@ -1,7 +1,5 @@
 ---
 title: Syllabus - Winter 2018
-header-includes:
-	- \renewcommand*\familydefault{\sfdefault}
 ---
 UCLA Department of Bioengineering
 
