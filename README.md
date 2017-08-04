@@ -5,13 +5,13 @@ Course ID#: XXX-XXX-XXX (Dis 1A)
 
 Prerequisite: Prior programming experience
 
-Lecture		
-Days: Tuesdays & Thursdays
-Time: 2:00 – 3:50pm
+### Lecture		
+Days: Tuesdays & Thursdays  
+Time: 2:00 – 3:50pm  
 Location: XXXX Boelter Hall
 
-Discussion/Laboratory
-Dis 1A:  Fridays
+### Discussion/Laboratory
+Dis 1A: Fridays  
 Time: 2:00pm – 3:50pm  
 Location: XXXX Boelter Hall
 
