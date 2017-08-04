@@ -17,7 +17,7 @@ Office Hours:
 - Prof. Meyer - Friday 2:00-3:00 pm or by appointment
 - TAs – Monday 8:30 – 10:00 pm or by appointment
 
-Website: [https://meyer-class.github.io/bioe-ml-winter2018/]
+Website: https://bioe-ml-w18.github.io/bioe-ml-winter2018/
 
 ## Text:
 
