@@ -1,5 +1,6 @@
 ---
 title: Course outline
+layout: page
 ---
 
 ### Week 1 

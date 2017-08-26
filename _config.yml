@@ -1,3 +1,23 @@
-theme: jekyll-theme-minimal
-title: Bioengr 188
-description: Machine learning & data-driven modeling in bioengineering
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Bioengr 188
+tagline:          'A Jekyll theme'
+description:      Machine learning & data-driven modeling in bioengineering
+url:              https://bioe-ml-w18.github.io/bioe-ml-winter2018/
+baseurl:          /
+
+author:
+  name:           'Aaron Meyer'
+  url:            http://asmlab.org
+
+paginate:         5
+
+github:
+  repo:           https://github.com/bioe-ml-w18/bioe-ml-winter2018

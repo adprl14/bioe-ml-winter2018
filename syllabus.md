@@ -1,5 +1,6 @@
 ---
 title: Syllabus - Winter 2018
+layout: page
 ---
 UCLA Department of Bioengineering
 
