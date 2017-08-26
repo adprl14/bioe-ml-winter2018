@@ -1,44 +1,15 @@
-<!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }}</title>
+<!DOCTYPE html>
+<html lang="en-us">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
+  {% include head.html %}
+
   <body>
-    <div class="wrapper">
-      <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
+    {% include sidebar.html %}
 
-          <ul>
-            <li><a href="syllabus.html">Syllabus</a></li>
-            <li><a href="outline.html">Outline</a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-          </ul>
-      </header>
-      <section>
-
+    <div class="content container">
       {{ content }}
-
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer>
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
   </body>
 </html>
