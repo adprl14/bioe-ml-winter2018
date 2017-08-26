@@ -5,50 +5,64 @@ layout: page
 
 ### Week 1 
 
-Lecture: Statistics review, Bayesian vs. frequentist approaches  
-Lab: Programming and git primer
+- Reading: 
+- Lecture 1: Statistics review 
+- Lecture 2: Bayesian vs. frequentist approaches 
+- Lab: Programming and git primer
 
 ### Week 2
 
-Lecture: Fitting  
-Lab: Implementation of Shaffer et al. (bayesian v. freq)
+- Reading: 
+- Lecture 3: Fitting
+- Lecture 4: Fitting continued - Bayesian methods
+- Lab: Implementation of Shaffer et al. (bayesian v. freq)
 
 ### Week 3
 
-Lecture: Does my model work? Boosting, crossvalidation, bootstrap, and friends.  
-Lab: Implementation of Hlavacek et al. (fitting)
+- Reading: 
+- Lecture 5: Does my model work? Boosting, crossvalidation, bootstrap, and friends.  
+- Lecture 6: Does my model work? Boosting, crossvalidation, bootstrap, and friends. 
+- Lab: Implementation of Hlavacek et al. (fitting)
 
 ### Week 4 
 
-Lecture: Dynamical models  
-Lab: (model evaluation)
+- Reading: 
+- Lecture 7: Dynamical models
+- Lecture 8: Dynamical models
+- Lab: (model evaluation)
 
 ### Week 5
 
-Lecture: Hidden Markov Models  
-Lab: Implementation of Perelson et al. (dynamical models)
+- Lecture 9: Hidden Markov Models
+- Lecture 10: Midterm exam
+- Lab: Implementation of Perelson et al. (dynamical models)
+- Deadline to choose project subject
 
 ### Week 6
 
-Lecture: Principal Components Analysis and Partial Least Squares Regression
-Lab: Implementation of Gupta et al. (HMMs)
+- Lecture: Principal Components Analysis and Partial Least Squares Regression
+- Lecture: 
+- Lab: Implementation of Gupta et al. (HMMs)
 
 ### Week 7
 
-Lecture: Clustering
-Lab: Implementation of PLSR
+- Lecture: Clustering
+- Lecture: 
+- Lab: Implementation of PLSR
 
 ### Week 8 
 
-Lecture: Decision trees
-Lab: Implementation of clustering
+- Lecture: Decision trees
+- Lecture: 
+- Lab: Implementation of clustering
 
 ### Week 9
 
-Lecture: Support vector machines
-Lab: Implementation of decision trees
+- Lecture: Support vector machines
+- Lecture: 
+- Lab: Implementation of decision trees
 
-### Week 10 & 11
+### Week 10
 
-Lecture: Project presentations
-Lab: Further project implementation
+- Lecture: Project presentations
+- Lab: Further project implementation
