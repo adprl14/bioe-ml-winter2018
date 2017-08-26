@@ -33,7 +33,6 @@ Lab: Implementation of Perelson et al. (dynamical models)
 Lecture: Principal Components Analysis and Partial Least Squares Regression
 Lab: Implementation of Gupta et al. (HMMs)
 
-
 ### Week 7
 
 Lecture: Clustering
