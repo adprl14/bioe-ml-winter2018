@@ -7,14 +7,14 @@ layout: page
 
 - Reading: 
 - [Lecture 1: Statistics review](https://bioe-ml-w18.github.io/prog-class/Wk1-Lecture1.pdf)
-- Lecture 2: Bayesian vs. frequentist approaches 
+- [Lecture 2: Bayesian vs. frequentist approaches](https://bioe-ml-w18.github.io/prog-class/Wk1-Lecture2.pdf)
 - Lab: Programming and git primer
 
 ### Week 2
 
 - Reading: 
-- Lecture 3: Fitting
-- Lecture 4: Fitting continued - Bayesian methods
+- [Lecture 3: Fitting](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture3.pdf)
+- [Lecture 4: Fitting continued - Bayesian methods](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture4.pdf)
 - Lab: Implementation of Shaffer et al. (bayesian v. freq)
 
 ### Week 3
@@ -40,6 +40,7 @@ layout: page
 
 ### Week 6
 
+- Reading: [Points of Significance: Principal component analysis](https://www.nature.com/nmeth/journal/v14/n7/full/nmeth.4346.html)
 - Lecture: Principal Components Analysis and Partial Least Squares Regression
 - Lecture: 
 - Lab: Implementation of Gupta et al. (HMMs)
@@ -52,6 +53,7 @@ layout: page
 
 ### Week 8 
 
+- Reading: [Points of Significance: Classification and regression trees](https://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4370.html)
 - Lecture: Decision trees
 - Lecture: 
 - Lab: Implementation of clustering
