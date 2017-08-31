@@ -3,7 +3,7 @@ title: Final Project Guidelines
 layout: page
 ---
 
-# Choosing A Topic
+## Choosing A Topic
 
 In this project, you have two options for the general route you can take:
 
@@ -24,7 +24,7 @@ Reimplementation:
 
 There are no restrictions on the programming language or packages you use. While this is expected to be an individual project, we will consider two person teams XXX.
 
-# Proposal
+## Proposal
 
 The proposal should be less than two pages and describe the following items:
 
@@ -36,7 +36,7 @@ The proposal should be less than two pages and describe the following items:
 
 **We are available to discuss your ideas whenever you are ready, and you should discuss your idea with us prior to submitting your proposal.** By the time you submit your proposal you should ensure that you have access to the requisite data. We are happy to help you with this.
 
-# Final Report
+## Final Report
 
 
 
@@ -65,7 +65,7 @@ The final report should be less than 1500 words and describe the following items
 
 Accompanying your final report should be a git repository of your analysis.
 
-# Final Presentation
+## Final Presentation
 
 Each presentation will have 8 minutes:
 - 6 minutes for a presentation
@@ -73,7 +73,7 @@ Each presentation will have 8 minutes:
 
 Each team should prepare no more than 7 slides, including the title slide, and cover the sections listed in the final report.
 
-# Grading
+## Grading
 
 Your project will be evaluated 
 
