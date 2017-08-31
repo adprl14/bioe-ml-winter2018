@@ -40,15 +40,16 @@ The proposal should be less than two pages and describe the following items:
 
 Your final report should be less than 1500 words and describe the following items:
 
-- Introduction/Motivation: Why the topic you choose is interesting, and whether similar work has been done by companies/researchers (it will not affect your grade whether or not your proposed work is novel, but it is always good to know if other people are doing the same thing)
-- Problem definition: How to formulate your topic/question into a data analytics problem
+- Introduction/Motivation: Why the topic you choose is interesting, and whether similar work has been done by others (novelty will not affect your grade, but it is always good to know if other people are doing the same thing)
+- Problem definition: How to formulate your topic/question into a data analytics problem, and how does it relate to a broader challenge engineering a biological system
 - Methods
 	– Description of the algorithm you employed or designed
 	– The software package you chose or your own implementation of the algorithm
 	– How to use the software package or your own code
 	– (Optional) Charting and/or visualization that help make decisions in your analysis
 - Results
-	– Quantitative evaluation of your method (e.g. classification accuracy) – Charting and/or visualization for the end-user
+	– Quantitative evaluation of your method (e.g. classification accuracy)
+	– Charting and/or visualization of your results
 	– How your proposed approach has solved your question
 
 Accompanying your final report should be a git repository of your analysis.
@@ -66,6 +67,6 @@ Each team should prepare no more than 7 slides, including the title slide, and c
 Your project will be evaluated 
 
 - Proposal (15%)
-- Final Report ()
-- Final Presentation ()
-- Code and Implementation ()
+- Final Report (40%)
+- Final Presentation (15%)
+- Code and Implementation (30%)
