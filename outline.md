@@ -6,7 +6,7 @@ layout: page
 ### Week 1 
 
 - Reading: 
-- Lecture 1: Statistics review 
+- [Lecture 1: Statistics review](https://bioe-ml-w18.github.io/prog-class/Wk1-Lecture1.pdf)
 - Lecture 2: Bayesian vs. frequentist approaches 
 - Lab: Programming and git primer
 
