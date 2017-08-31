@@ -38,30 +38,18 @@ The proposal should be less than two pages and describe the following items:
 
 ## Final Report
 
+Your final report should be less than 1500 words and describe the following items:
 
-
-
-
-The final report should be less than 1500 words and describe the following items:
-• Introduction/Motivation: Why the topic you choose is interesting, and whether similar work has been done by companies/researchers (it will not affect your grade whether or not your proposed work is novel, but it is always good to know if other people are doing the same thing) (10%)
-• Problem definition: How to formulate your topic/question into a data analytics problem (10%)
-• Methods (40%)
-– Description of the algorithm you employed or designed
-– The software package you chose or your own implementation of the algorithm
-– How to use the software package or your own code
-– (Optional) Charting and/or visualization that help make decisions in your analysis
-3
-8
-• Results (30%)
-– Quantitative evaluation of your method (e.g. classification accuracy) – Charting and/or visualization for the end-user
-– How your proposed approach has solved your question
-• How the work was divided among team members (10%)
-
-
-
-
-
-
+- Introduction/Motivation: Why the topic you choose is interesting, and whether similar work has been done by companies/researchers (it will not affect your grade whether or not your proposed work is novel, but it is always good to know if other people are doing the same thing)
+- Problem definition: How to formulate your topic/question into a data analytics problem
+- Methods
+	– Description of the algorithm you employed or designed
+	– The software package you chose or your own implementation of the algorithm
+	– How to use the software package or your own code
+	– (Optional) Charting and/or visualization that help make decisions in your analysis
+- Results
+	– Quantitative evaluation of your method (e.g. classification accuracy) – Charting and/or visualization for the end-user
+	– How your proposed approach has solved your question
 
 Accompanying your final report should be a git repository of your analysis.
 
