@@ -12,15 +12,15 @@ In this project, you have two options for the general route you can take:
 
 Some papers with material of potential interest are listed [here](impl-opts.html).
 
-For example, two project ideas:
+For example, a few project ideas:
 
 Exploratory:
-~ Using the kinetic binding measurements and activities measured in [Jaks et al](http://doi.org/10.1016/j.jmb.2006.11.053), use PCA to describe the differences between interferons, and PLSR to predict how binding relates to activity.
-~ Using the kinetic binding measurements and activities measured in [Jaks et al](http://doi.org/10.1016/j.jmb.2006.11.053), build an ODE model of receptor-ligand interaction. Based on the conclusions of the authors, predict how cells with different amounts of receptor would respond.
+- Using the kinetic binding measurements and activities measured in [Jaks et al](http://doi.org/10.1016/j.jmb.2006.11.053), use PCA to describe the differences between interferons, and PLSR to predict how binding relates to activity.
+- Using the kinetic binding measurements and activities measured in [Jaks et al](http://doi.org/10.1016/j.jmb.2006.11.053), build an ODE model of receptor-ligand interaction. Based on the conclusions of the authors, predict how cells with different amounts of receptor would respond.
 
 Reimplementation:
-~ Reimplement the quantitation for mutation rate from the number of stop codons in [Cuevas et al](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002251#pbio.1002251.s011). Using either a Bayesian or frequentest approach, estimate the specificity of each mutation rate estimate.
-~ Reimplement the ODE model from [Kellogg et al](http://www.sciencedirect.com/science/article/pii/S2211124717303595?via%3Dihub). Propose an approach to fit the model to data, given the high degree of cell-cell variation.
+- Reimplement the quantitation for mutation rate from the number of stop codons in [Cuevas et al](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002251#pbio.1002251.s011). Using either a Bayesian or frequentest approach, estimate the specificity of each mutation rate estimate.
+- Reimplement the ODE model from [Kellogg et al](http://www.sciencedirect.com/science/article/pii/S2211124717303595?via%3Dihub). Propose an approach to fit the model to data, given the high degree of cell-cell variation.
 
 There are no restrictions on the programming language or packages you use. While this is expected to be an individual project, we will consider two person teams XXX.
 
