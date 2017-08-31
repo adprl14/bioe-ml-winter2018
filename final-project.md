@@ -22,14 +22,14 @@ Reimplementation:
 - Reimplement the quantitation for mutation rate from the number of stop codons in [Cuevas et al](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002251#pbio.1002251.s011). Using either a Bayesian or frequentest approach, estimate the specificity of each mutation rate estimate.
 - Reimplement the ODE model from [Kellogg et al](http://www.sciencedirect.com/science/article/pii/S2211124717303595?via%3Dihub). Propose an approach to fit the model to data, given the high degree of cell-cell variation.
 
-There are no restrictions on the programming language or packages you use. While this is expected to be an individual project, we will consider two person teams XXX.
+There are no restrictions on the programming language or packages you use. While this is expected to be an individual project by default, we will consider two person teams so long as this is reflected by the scope of the project. If in a team, your proposal, final project, and final presentation should cover how the project was divided up.
 
 ## Proposal
 
 The proposal should be less than two pages and describe the following items:
 
-- Why the topic you choose is interesting.
-- Demonstrate that your project will involve the three required components.
+- Why the topic you chose is interesting
+- Demonstrate that your project fits the criteria above
 - What overall approach do you plan to take for the project and why
 - Demonstrate that your project can be finished within a month
 - Estimate the difficulty of your project
