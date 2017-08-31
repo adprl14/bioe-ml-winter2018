@@ -48,7 +48,7 @@ Your final report should be less than 1500 words and describe the following item
     – How to use the software package or your own code
     – (Optional) Charting and/or visualization that help make decisions in your analysis
 - Results
-    – Quantitative evaluation of your method (e.g. classification accuracy)
+    – Quantitative evaluation of your method
     – Charting and/or visualization of your results
     – How your proposed approach has solved your question
 

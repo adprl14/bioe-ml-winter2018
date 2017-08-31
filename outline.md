@@ -59,7 +59,7 @@ layout: page
 ### Week 9
 
 - Lecture: Support vector machines
-- Lecture: 
+- Lecture: Creating the future: Autodiff, neural networks, and t-SNE
 - Lab: Implementation of decision trees
 
 ### Week 10
