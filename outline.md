@@ -31,7 +31,7 @@ layout: page
 
 - Reading: 
 - [Lecture 7: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture7.pdf)
-- [Lecture 8: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture8.pdf)
+- [Lecture 8: ](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture8.pdf)
 - Lab: (model evaluation)
 
 ### Week 5, Feb 5 – 9
