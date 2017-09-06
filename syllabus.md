@@ -6,7 +6,7 @@ UCLA Department of Bioengineering
 
 BIOENGR 188: Machine learning & data-driven modeling in bioengineering
 
-Instructor: Prof. Aaron Meyer (ameyer@ucla.edu), 5121E Engineering V
+Instructor: Prof. Aaron Meyer (<ameyer@ucla.edu>), 5121E Engineering V
 
 Class Hours: Lecture: Tuesdays/Thursdays 2:00 - 3:50pm ()  
 Lab Section: Fridays 10:00 – 11:50 am (3760 Boelter Hall)
@@ -49,7 +49,7 @@ By the end of the course you will have an increased understanding of:
 
 ## Important to know
 
-The best way to contact me outside of class is by email.  Students should be aware that I may not promptly answer emails arriving after 10:30 PM or before 8:30 AM. Please plan on emailing me before 10:30 PM if it is possible.  I am happy to meet with students outside of class time to discuss questions or concerns.  Please see me after class or contact me by email to set up an appointment.
+The best way to contact me outside of class is by email. Students should be aware that I will not answer emails arriving after 10:30 PM or before 8:30 AM, and should not be counted on to answer emails immediately. I am happy to meet with students outside of class time to discuss questions or concerns. Please see me after class or contact me by email to set up an appointment.
 
 ## Expectations
 

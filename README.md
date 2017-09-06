@@ -1,6 +1,6 @@
 ## Bioengr 188: Machine learning & data-driven modeling in bioengineering
 
-Course ID#: XXX-XXX-XXX (Dis 1A)
+Course ID#: 250-828-220
 (Course counts as elective towards degree requirements)
 
 Prerequisite: Prior programming experience

@@ -24,7 +24,6 @@ These are some packages that may be of use to you during the course.
 ## Testing
 
 - [unittest](https://docs.python.org/3/library/unittest.html#) (built in)
-- [hypothesis](http://hypothesis.works)
 
 ## Other
 

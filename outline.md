@@ -19,6 +19,7 @@ layout: page
 - Lab: Implementation of Shaffer et al. (bayesian v. freq)
 
 <!-- MLR? //-->
+<!-- KL-divergence //-->
 
 ### Week 3, Jan 22 – 26
 
