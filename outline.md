@@ -31,29 +31,29 @@ layout: page
 ### Week 4, Jan 29 – Feb 2
 
 - Reading: 
-- [Lecture 7: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture7.pdf)
-- [Lecture 8: ](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture8.pdf)
-- Lab: (model evaluation)
+- [Lecture 7: Dimentionality reduction - PCA and NMF](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture7.pdf)
+- [Lecture 8: Partial Least Squares Regression](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture8.pdf)
+- Lab: Midterm review
 
 ### Week 5, Feb 5 – 9
 
-- [Lecture 9: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture09.pdf)
+- [Lecture 9: Midterm review](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture09.pdf)
 - [Lecture 10: Midterm exam](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture10.pdf)
 - Lab: Implementation of Perelson et al. (dynamical models)
-- Deadline to choose project subject
 
 ### Week 6, Feb 12 – 16
 
 - Reading: [Points of Significance: Principal component analysis](https://www.nature.com/nmeth/journal/v14/n7/full/nmeth.4346.html)
-- [Lecture 11: Dimentionality reduction - PCA and NMF](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture11.pdf)
-- [Lecture 12: Partial Least Squares Regression](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture12.pdf)
-- Lab: Implementation of Gupta et al. (HMMs)
+- [Lecture 11: Generative models revisit dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture11.pdf)
+- [Lecture 12: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture12.pdf)
+- Lab: Implementation of PLSR
+- Deadline to choose project subject
 
 ### Week 7, Feb 19 – 23
 
 - [Lecture 13: Clustering](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture13.pdf)
-- [Lecture 14: ](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture14.pdf)
-- Lab: Implementation of PLSR
+- [Lecture 14: Autodiff and Clustering Cont'd](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture14.pdf)
+- Lab: Implementation of Gupta et al. (HMMs)
 
 ### Week 8, Feb 26 – Mar 2
 
@@ -65,7 +65,7 @@ layout: page
 ### Week 9, Mar 5 – 9
 
 - [Lecture 17: Regression forests, boosting, and bagging](https://bioe-ml-w18.github.io/prog-class/Wk9-Lecture17.pdf)
-- [Lecture 18: Creating the future: Autodiff, neural networks, and t-SNE](https://bioe-ml-w18.github.io/prog-class/Wk9-Lecture18.pdf)
+- [Lecture 18: Creating the future: Neural networks, and t-SNE](https://bioe-ml-w18.github.io/prog-class/Wk9-Lecture18.pdf)
 - Lab: Implementation of decision trees
 
 ### Week 10, Mar 12 – 16
