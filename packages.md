@@ -13,7 +13,6 @@ These are some packages that may be of use to you during the course.
 ## Machine Learning
 
 - [Scikit-learn](http://scikit-learn.org/stable/)
-- [Theano](http://www.deeplearning.net/software/theano/)
 - [TensorFlow](https://www.tensorflow.org)
 
 ## Numerical Manipulations

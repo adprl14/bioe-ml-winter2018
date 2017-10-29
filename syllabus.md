@@ -31,6 +31,13 @@ Optional:
 
 - Mitchell, T. M. (1997). Machine Learning.
 
+- MacKaye, D. Information Theory, Inference and Learning Algorithms.
+
+- Jaynes, E. T. Probability Theory: the Logic of Science.
+
+- "Elements of Statistical Learning" by Tibshirani
+
+- "Bayesian Data Analysis" by Andrew Gelman
 
 ## Course Description:
 
