@@ -23,21 +23,15 @@ Website: https://bioe-ml-w18.github.io/bioe-ml-winter2018/
 ## Text:
 
 Required: None. Handouts will be provided as needed and posted on the website.
-Optional:
+Optional/Helpful Other Resources:
 
-- Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning.
+- *Efron & Hastie (2016). [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/).*
 
-- Bishop, C. M. (2006). Pattern recognition and machine learning.
+- Hastie *et al*. (2009). [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf).
 
-- Mitchell, T. M. (1997). Machine Learning.
+- MacKaye (2005). [Information Theory, Inference and Learning Algorithms](http://www.inference.org.uk/itprnn/book.pdf).
 
-- MacKaye, D. Information Theory, Inference and Learning Algorithms.
-
-- Jaynes, E. T. Probability Theory: the Logic of Science.
-
-- "Elements of Statistical Learning" by Tibshirani
-
-- "Bayesian Data Analysis" by Andrew Gelman
+- Gelman. [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/).
 
 ## Course Description:
 
