@@ -16,36 +16,33 @@ layout: page
 - Reading: [Points of Significance: Regression diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 3: Fitting & regression](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture3.pdf)
 - [Lecture 4: Fitting & regression continued - Bayesian methods, regularization](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture4.pdf)
-- [Lab: Implementation](https://classroom.github.com/a/7RBnmweg) of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html)
-
-<!-- MLR? //-->
-<!-- KL-divergence //-->
+- [Lab: Implementation](https://classroom.github.com/a/7RBnmweg) of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html) <!-- Statistics -->
 
 ### Week 3, Jan 22 – 26
 
 - Reading: 
 - [Lecture 5: Does my model work? Crossvalidation, bootstrap, and friends](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture5.pdf)
 - [Lecture 6: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture6.pdf)
-- Lab: Implementation of Hlavacek et al. (fitting)
+- Lab: Implementation of [Hlavacek et al.](http://www.sciencedirect.com/science/article/pii/S0006349599773972) <!-- Fitting -->
 
 ### Week 4, Jan 29 – Feb 2
 
-- Reading: 
+- Reading: [Points of Significance: Principal Components Analysis](https://www.nature.com/articles/nmeth.4346)
 - [Lecture 7: Dimentionality reduction - PCA and NMF](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture7.pdf)
 - [Lecture 8: Partial Least Squares Regression](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture8.pdf)
-- Lab: Midterm review
+- Lab: Implementation of Perelson et al. <!-- dynamical models -->
 
 ### Week 5, Feb 5 – 9
 
-- [Lecture 9: Midterm review](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture09.pdf)
-- [Lecture 10: Midterm exam](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture10.pdf)
-- Lab: Implementation of Perelson et al. (dynamical models)
+- Reading: [Points of Significance: Principal component analysis](https://www.nature.com/nmeth/journal/v14/n7/full/nmeth.4346.html)
+- [Lecture 9: Generative models revisit dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture9.pdf)
+- [Lecture 10: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture10.pdf)
+- Lab: Midterm review, finish selecting project
 
 ### Week 6, Feb 12 – 16
 
-- Reading: [Points of Significance: Principal component analysis](https://www.nature.com/nmeth/journal/v14/n7/full/nmeth.4346.html)
-- [Lecture 11: Generative models revisit dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture11.pdf)
-- [Lecture 12: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture12.pdf)
+- [Lecture 11: Midterm review](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture11.pdf)
+- [Lecture 12: Midterm exam](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture12.pdf)
 - Lab: Implementation of PLSR
 - Deadline to choose project subject
 
@@ -53,7 +50,7 @@ layout: page
 
 - [Lecture 13: Clustering](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture13.pdf)
 - [Lecture 14: Autodiff and Clustering Cont'd](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture14.pdf)
-- Lab: Implementation of Gupta et al. (HMMs)
+- Lab: Implementation of Gupta et al. <!-- HMMs -->
 
 ### Week 8, Feb 26 – Mar 2
 
@@ -66,7 +63,7 @@ layout: page
 
 - [Lecture 17: Regression forests, boosting, and bagging](https://bioe-ml-w18.github.io/prog-class/Wk9-Lecture17.pdf)
 - [Lecture 18: Creating the future: Neural networks, and t-SNE](https://bioe-ml-w18.github.io/prog-class/Wk9-Lecture18.pdf)
-- Lab: Implementation of decision trees
+- [Lab: Implementation](https://classroom.github.com/a/uA9k8R5a) of decision trees
 
 ### Week 10, Mar 12 – 16
 
