@@ -57,7 +57,7 @@ layout: page
 - Reading: [Points of Significance: Classification and regression trees](https://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4370.html)
 - [Lecture 15: Decision trees](https://bioe-ml-w18.github.io/prog-class/Wk8-Lecture15.pdf)
 - [Lecture 16: Support vector machines](https://bioe-ml-w18.github.io/prog-class/Wk8-Lecture16.pdf)
-- Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863) (clustering)
+- [Lab: Implementation](https://classroom.github.com/a/lYxpYYdS) of [Masaeli et al.](https://www.nature.com/articles/srep37863) <!-- SVM -->
 
 ### Week 9, Mar 5 – 9
 
