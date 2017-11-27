@@ -37,20 +37,20 @@ layout: page
 - Reading: [Points of Significance: Principal component analysis](https://www.nature.com/nmeth/journal/v14/n7/full/nmeth.4346.html)
 - [Lecture 9: Generative models revisit dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture9.pdf)
 - [Lecture 10: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture10.pdf)
-- Lab: Midterm review, finish selecting project
+- Lab: Midterm review, finish selecting project ([submission link](https://classroom.github.com/a/7FBVwBkI))
 
 ### Week 6, Feb 12 – 16
 
 - [Lecture 11: Midterm review](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture11.pdf)
 - [Lecture 12: Midterm exam](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture12.pdf)
 - Lab: Implementation of PLSR
-- Deadline to choose project subject
+- Deadline to choose project subject 
 
 ### Week 7, Feb 19 – 23
 
 - [Lecture 13: Clustering](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture13.pdf)
 - [Lecture 14: Autodiff and Clustering Cont'd](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture14.pdf)
-- Lab: Implementation of Gupta et al. <!-- HMMs -->
+- Lab: Implementation of HMMs for heart rate monitor wearable
 
 ### Week 8, Feb 26 – Mar 2
 
