@@ -23,7 +23,7 @@ layout: page
 - Reading: 
 - [Lecture 5: Does my model work? Crossvalidation, bootstrap, and friends](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture5.pdf)
 - [Lecture 6: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture6.pdf)
-- Lab: Implementation of [Hlavacek et al.](http://www.sciencedirect.com/science/article/pii/S0006349599773972) <!-- Fitting -->
+- [Lab: Implementation](https://classroom.github.com/a/1yu6BPm5) of [Stone et al.](http://www.sciencedirect.com/science/article/pii/S0006349501758997) <!-- Fitting -->
 
 ### Week 4, Jan 29 – Feb 2
 
