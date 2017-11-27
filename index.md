@@ -11,12 +11,12 @@ Instructor: Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
 Class Hours: Lecture: Tuesdays/Thursdays 2:00 - 3:50pm (Public Affairs 1256)  
 Lab Section: Fridays 10:00 – 11:50 am (3760 Boelter Hall)
 
-Teaching Assistant: XXX XXX (...@seas.ucla.edu)
+Teaching Assistant: Alex Wickstrom (<awickstrom@ucla.edu>)
 
 Office Hours:
 
 - Prof. Meyer - Friday 2:00-3:00 pm or by appointment
-- TAs – Monday 8:30 – 10:00 pm or by appointment
+- TAs – Monday TBD or by appointment
 
 Website: https://bioe-ml-w18.github.io/bioe-ml-winter2018/
 

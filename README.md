@@ -8,12 +8,12 @@ Prerequisite: Prior programming experience
 #### Lecture
 Days: Tuesdays & Thursdays  
 Time: 2:00 – 3:50pm  
-Location: XXXX Boelter Hall
+Location: Public Affairs 1256
 
 #### Discussion/Laboratory
 Dis 1A: Fridays  
 Time: 2:00pm – 3:50pm  
-Location: XXXX Boelter Hall
+Location: 3760 Boelter Hall
 
 Instructor: Prof. Aaron Meyer
 
