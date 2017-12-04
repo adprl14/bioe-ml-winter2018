@@ -22,7 +22,7 @@ layout: page
 
 - Reading: 
 - [Lecture 5: Does my model work? Crossvalidation, bootstrap, and friends](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture5.pdf)
-- [Lecture 6: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture6.pdf)
+- [Lecture 6: Reproducible computational workflows](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture6.pdf)
 - [Lab: Implementation](https://classroom.github.com/a/1yu6BPm5) of [Stone et al.](http://www.sciencedirect.com/science/article/pii/S0006349501758997) <!-- Fitting -->
 
 ### Week 4, Jan 29 – Feb 2
@@ -30,12 +30,12 @@ layout: page
 - Reading: [Points of Significance: Principal Components Analysis](https://www.nature.com/articles/nmeth.4346)
 - [Lecture 7: Dimentionality reduction - PCA and NMF](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture7.pdf)
 - [Lecture 8: Partial Least Squares Regression](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture8.pdf)
-- Lab: Implementation of Perelson et al. <!-- dynamical models -->
+- Lab: Implementation of PLSR
 
 ### Week 5, Feb 5 – 9
 
 - Reading: [Points of Significance: Principal component analysis](https://www.nature.com/nmeth/journal/v14/n7/full/nmeth.4346.html)
-- [Lecture 9: Generative models revisit dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture9.pdf)
+- [Lecture 9: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture9.pdf)
 - [Lecture 10: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture10.pdf)
 - Lab: Midterm review, finish selecting project ([submission link](https://classroom.github.com/a/7FBVwBkI))
 
@@ -43,7 +43,7 @@ layout: page
 
 - [Lecture 11: Midterm review](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture11.pdf)
 - [Lecture 12: Midterm exam](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture12.pdf)
-- Lab: Implementation of PLSR
+- Lab: Implementation of Perelson et al. <!-- dynamical models -->
 - Deadline to choose project subject 
 
 ### Week 7, Feb 19 – 23
