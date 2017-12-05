@@ -50,7 +50,7 @@ layout: page
 
 - [Lecture 13: Clustering](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture13.pdf)
 - [Lecture 14: Autodiff and Clustering Cont'd](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture14.pdf)
-- Lab: Implementation of HMMs for heart rate monitor wearable
+- [Lab: Implementation](https://classroom.github.com/a/ieTKwxuj) of HMMs for heart rate monitor wearable
 
 ### Week 8, Feb 26 – Mar 2
 
