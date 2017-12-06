@@ -30,7 +30,7 @@ layout: page
 - Reading: [Points of Significance: Principal Components Analysis](https://www.nature.com/articles/nmeth.4346)
 - [Lecture 7: Dimentionality reduction - PCA and NMF](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture7.pdf)
 - [Lecture 8: Partial Least Squares Regression](https://bioe-ml-w18.github.io/prog-class/Wk4-Lecture8.pdf)
-- Lab: Implementation of [Cosgrove et al.](http://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c) <!-- PLSR -->
+- [Lab: Implementation](https://classroom.github.com/a/PMDkKXBG) of [Cosgrove et al.](http://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c) <!-- PLSR -->
 
 ### Week 5, Feb 5 – 9
 
