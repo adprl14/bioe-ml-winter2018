@@ -5,23 +5,22 @@ layout: page
 
 ### Week 1, Jan 8 – 12
 
-- Reading: 
+- Reading: [Points of Significance: Simple linear regression](http://www.nature.com/nmeth/journal/v12/n11/full/nmeth.3627.html)
 - [Lecture 1: Statistics review](https://bioe-ml-w18.github.io/prog-class/Wk1-Lecture1.pdf)
-- [Lecture 2: Bayesian vs. frequentist approaches](https://bioe-ml-w18.github.io/prog-class/Wk1-Lecture2.pdf)
-- [Lab: Programming and git primer](https://classroom.github.com/a/I9mAoL3K)
+- [Lecture 2: Fitting & Regression](https://bioe-ml-w18.github.io/prog-class/Wk1-Lecture2.pdf)
+- [Lab: Programming and Git Primer](https://classroom.github.com/a/I9mAoL3K)
 
 ### Week 2, Jan 15 – 19
 
-- Reading: [Points of Significance: Simple linear regression](http://www.nature.com/nmeth/journal/v12/n11/full/nmeth.3627.html)
-- Reading: [Points of Significance: Regression diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
-- [Lecture 3: Fitting & regression](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture3.pdf)
-- [Lecture 4: Fitting & regression continued - Bayesian methods, regularization](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture4.pdf)
+- Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
+- [Lecture 3: Fitting & Regression Redux, Regularization](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture3.pdf)
+- [Lecture 4: Does my model work? Crossvalidation, bootstrap, and friends](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture4.pdf)
 - [Lab: Implementation](https://classroom.github.com/a/7RBnmweg) of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html) <!-- Statistics -->
 
 ### Week 3, Jan 22 – 26
 
 - Reading: 
-- [Lecture 5: Does my model work? Crossvalidation, bootstrap, and friends](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture5.pdf)
+- [Lecture 5: Bayesian vs. frequentist approaches](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture5.pdf)
 - [Lecture 6: Reproducible computational workflows](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture6.pdf)
 - [Lab: Implementation](https://classroom.github.com/a/1yu6BPm5) of [Stone et al.](http://www.sciencedirect.com/science/article/pii/S0006349501758997) <!-- Fitting -->
 
