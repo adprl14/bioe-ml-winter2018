@@ -18,7 +18,8 @@ Office Hours:
 - Prof. Meyer - Friday 2:00-3:00 pm or by appointment
 - TAs – Monday TBD or by appointment
 
-Website: https://bioe-ml-w18.github.io/bioe-ml-winter2018/
+Website: <https://bioe-ml-w18.github.io/bioe-ml-winter2018/>  
+Piazza: <https://piazza.com/ucla/winter2018/bioengr188/home>
 
 ## Text:
 
