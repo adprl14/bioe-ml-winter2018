@@ -16,7 +16,7 @@ Teaching Assistant: Alex Wickstrom (<awickstrom@ucla.edu>)
 Office Hours:
 
 - Prof. Meyer - Friday 2:00 – 3:00 pm in Eng V 4129 or by appointment
-- TAs – Wednesday 12:00 – 1:00pm in Eng V 4129 or by appointment
+- TA – Wednesday 12:00 – 1:00pm in Eng V 4129 or by appointment
 
 Website: <https://bioe-ml-w18.github.io/bioe-ml-winter2018/>  
 Piazza: <https://piazza.com/ucla/winter2018/bioengr188/home>
