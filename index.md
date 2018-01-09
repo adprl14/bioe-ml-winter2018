@@ -8,15 +8,15 @@ BIOENGR 188: Machine learning & data-driven modeling in bioengineering
 
 Instructor: Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
 
-Class Hours: Lecture: Tuesdays/Thursdays 2:00 - 3:50pm (Public Affairs 1256)  
+Class Hours: Lecture: Tuesdays/Thursdays 2:00 – 3:50pm (Public Affairs 1256)  
 Lab Section: Fridays 10:00 – 11:50 am (3760 Boelter Hall)
 
 Teaching Assistant: Alex Wickstrom (<awickstrom@ucla.edu>)
 
 Office Hours:
 
-- Prof. Meyer - Friday 2:00-3:00 pm or by appointment
-- TAs – Monday TBD or by appointment
+- Prof. Meyer - Friday 2:00 – 3:00 pm in Eng V 4129 or by appointment
+- TAs – Wednesday 12:00 – 1:00pm in Eng V 4129 or by appointment
 
 Website: <https://bioe-ml-w18.github.io/bioe-ml-winter2018/>  
 Piazza: <https://piazza.com/ucla/winter2018/bioengr188/home>
