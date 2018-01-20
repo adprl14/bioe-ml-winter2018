@@ -9,7 +9,7 @@ layout: page
 - Reading: [Can a biologist fix a radio?](http://www.cell.com/cancer-cell/abstract/S1535-6108(02)00133-2)
 - [Lecture 1: Statistics review](https://bioe-ml-w18.github.io/prog-class/Wk1-Lecture1.pdf)
 - [Lecture 2: Fitting & Regression](https://bioe-ml-w18.github.io/prog-class/Wk1-Lecture2.pdf)
-- [Lab: Programming and Git Primer](https://classroom.github.com/a/I9mAoL3K)
+- [Lab: Programming and Git Primer](https://classroom.github.com/a/I9mAoL3K) ([Solution](https://github.com/bioe-ml-w18/bioe-ml-winter2018/blob/master/homeworks/Week1-Introduction.ipynb))
 
 ### Week 2, Jan 15 – 19
 
