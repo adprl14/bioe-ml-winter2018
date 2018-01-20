@@ -20,7 +20,6 @@ layout: page
 
 ### Week 3, Jan 22 – 26
 
-- Reading: 
 - [Lecture 5: Bayesian vs. frequentist approaches](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture5.pdf)
 - [Lecture 6: Reproducible computational workflows](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture6.pdf)
 - [Lab: Implementation](https://classroom.github.com/a/1yu6BPm5) of [Stone et al.](http://www.sciencedirect.com/science/article/pii/S0006349501758997) <!-- Fitting -->
