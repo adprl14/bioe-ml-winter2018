@@ -34,14 +34,14 @@ layout: page
 ### Week 5, Feb 5 – 9
 
 - Reading:
-- [Lecture 9: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture09.pdf)
-- [Lecture 10: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture10.pdf)
+- [Lecture 9: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture09.pdf)
+- [Lecture 10: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture10.pdf)
 - Lab: Midterm review, finish selecting project ([submission link](https://classroom.github.com/a/7FBVwBkI))
 
 ### Week 6, Feb 12 – 16
 
-- [Lecture 11: Midterm review](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture11.pdf)
-- [Lecture 12: Midterm exam](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture12.pdf)
+- [Lecture 11: Midterm review](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture11.pdf)
+- Lecture 12: Midterm exam
 - [Lab: Implementation](https://classroom.github.com/a/ajf6V2o1) of [Perelson et al.](http://science.sciencemag.org/content/271/5255/1582) <!-- dynamical models -->
 - Deadline to choose project subject 
 
