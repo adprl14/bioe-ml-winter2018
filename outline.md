@@ -34,7 +34,7 @@ layout: page
 ### Week 5, Feb 5 – 9
 
 - Reading:
-- [Lecture 9: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture9.pdf)
+- [Lecture 9: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture09.pdf)
 - [Lecture 10: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture10.pdf)
 - Lab: Midterm review, finish selecting project ([submission link](https://classroom.github.com/a/7FBVwBkI))
 
