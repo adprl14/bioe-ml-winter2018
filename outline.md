@@ -34,7 +34,7 @@ layout: page
 ### Week 5, Feb 5 – 9
 
 - Reading: [What is a hidden Markov model?](https://www.nature.com/articles/nbt1004-1315)
-- Listening: [Linear Digressions - Hidden Markov Models](http://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) [(part 2)](http://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2)
+- Listening: [Linear Digressions - Hidden Markov Models](http://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](http://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
 - [Lecture 9: Dynamical models](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture09.pdf)
 - [Lecture 10: Hidden Markov Models](https://bioe-ml-w18.github.io/prog-class/Wk5-Lecture10.pdf)
 - Lab: Midterm review, finish selecting project ([submission link](https://classroom.github.com/a/7FBVwBkI))
