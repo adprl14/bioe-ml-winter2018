@@ -16,7 +16,7 @@ layout: page
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 3: Fitting & Regression Redux, Regularization](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture3.pdf)
 - [Lecture 4: Does my model work? Crossvalidation, bootstrap, and friends](https://bioe-ml-w18.github.io/prog-class/Wk2-Lecture4.pdf)
-- [Lab: Implementation](https://classroom.github.com/a/7RBnmweg) of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html) <!-- Statistics -->
+- [Lab: Implementation](https://classroom.github.com/a/7RBnmweg) of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html) ([Solution](https://github.com/bioe-ml-w18/bioe-ml-winter2018/blob/master/homeworks/Week2-Statistics.ipynb))
 
 ### Week 3, Jan 22 – 26
 
