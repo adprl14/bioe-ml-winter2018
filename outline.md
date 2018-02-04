@@ -22,7 +22,7 @@ layout: page
 
 - [Lecture 5: Bayesian vs. frequentist approaches](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture5.pdf)
 - [Lecture 6: Reproducible computational workflows](https://bioe-ml-w18.github.io/prog-class/Wk3-Lecture6.pdf)
-- [Lab: Implementation](https://classroom.github.com/a/1yu6BPm5) of [Stone et al.](http://www.sciencedirect.com/science/article/pii/S0006349501758997) <!-- Fitting -->
+- [Lab: Implementation](https://classroom.github.com/a/1yu6BPm5) of [Stone et al.](http://www.sciencedirect.com/science/article/pii/S0006349501758997) ([Solution](https://github.com/bioe-ml-w18/bioe-ml-winter2018/blob/master/homeworks/Week3-Fitting.ipynb)
 
 ### Week 4, Jan 29 – Feb 2
 
