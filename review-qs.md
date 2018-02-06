@@ -34,3 +34,57 @@ layout: page
 7. What can we say about the relationship between *fitting* error and *prediction* error?
 8. What does regularization do to the degrees of freedom (p) of a model? How about the number of measurements (n)?
 9. A colleague tells you about a new form of regularization they've come up with (e.g. maximize the weighting for the variables most correlated with the output). How would this influence the variance of the model? Might this improve the prediction error?
+
+### Lecture 4
+
+1. Why does cross-validation need to be performed across multiple folds?
+2. How will cross-validation influence the model fit error? How does it affect the model prediction error?
+3. We want to demonstrate that we can predict the time until failure for an artificial heart from a set of clinical measurements. We plan to utilize LASSO regression to develop this prediction model, and are interested in the variables selected by LASSO. Walk through the steps to implement cross-validation here. How can you ensure you select only one set of variables?
+4. List three ways in which cross-validation and bootstrap are similar.
+5. List three ways in which cross-validation and bootstrap are different.
+6. You are part of a team developing a model to predict incidence of hospital-aquired infection from clinical variables. You build a model on data collected from your hospital and are able to show great predictive capacity upon cross-validation. However, when applying the model from data within another hospital, you fail to predict any of the cases. What might lead to the discrepency here?
+7. You want to determine whether the first parameter in your ordinary least squares model, beta_1, is significantly non-zero. How can you apply bootstrap to accomplish this?
+
+### Lecture 5
+
+1. What is a prior? How does one go about specifying one?
+2. Can a prior be based on data? If so, how is this data related to the experiment being modeled?
+3. What are three differences between a Bayesian and maximum likelihood (frequentist) approach?
+4. When will a Bayesian and maximum likelihood approach agree?
+5. You are asked to provide up-to-date estimates of the 6 month failure rate for a stent going to market. A previous device had 3 devices out of 100 fail within 6 months, and you strongly suspect this device is similar. Provide the Bayesian estimate of the failure rate (i.e. P(FR | N,m)) given N devices have made it to 6 months, and m have failed. (Hint: Devices EITHER pass or fail here.)
+6. What would be a reasonable estimate if you had no previous device's data?
+7. What do you expect to happen to a posterior distribution as you add more and more data?
+
+### Lecture 6
+
+1. Who/what sort of people need to test their code?
+2. What is the difference between unit tests and integration tests?
+3. What does testing guarantee?
+4. What is the difference between testing and fuzzing?
+5. What is linting?
+6. You and a colleague are putting together a model. What are some factors that could influence the results besides the code that you write?
+
+### Lecture 7
+
+1. What do dimensionality reduction methods reduce? What is the tradeoff?
+2. What are three benefits of dimensionality reduction?
+3. Does matrix factorization have one answer? If not, what are two choices you could make?
+4. What does principal components analysis aim to preserve?
+5. What are the minimum and maximum number of principal components one can have for a dataset of 300 observations and 10 variables?
+6. How can you determine the "right" number of PCs to use?
+7. What is a loading matrix? What would be the dimensions of this matrix for the dataset in Q5 when using three PCs?
+8. What is a scores matrix? What would be the dimensions of this matrix for the dataset in Q5 when using three PCs?
+9. By definition, what is the direction of PC1?
+10. See board. How does movement of the indicated point represent changes in the original data?
+
+### Lecture 8
+
+1. What are three differences between PCA and PLSR in implementation and application?
+2. What is the difference between PCR and PLSR? When does this different matter more/less?
+3. What does one need to do to one's data before applying PLSR?
+4. How can you determine the right number of components for a model?
+5. What feature of biological data make PLSR/PCR superior to direct regularization approaches (LASSO/ridge)?
+6. What benefit does a two component model have over those with 3+ components?
+7. Can you apply K-fold cross-validation to a PLSR model? If so, when do you scale your data?
+8. Can you apply bootstrapping to a PLSR model? Describe what this would look like.
+9. You use the same X data but want to predict a different Y variable. Do your X loadings change in your new model?
