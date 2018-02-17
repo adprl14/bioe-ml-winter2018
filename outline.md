@@ -69,3 +69,4 @@ layout: page
 
 - Lecture: Project presentations
 - Lab: Further project implementation
+- [Final Project Repository](https://classroom.github.com/a/80tGoLPR)
