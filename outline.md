@@ -42,7 +42,7 @@ layout: page
 ### Week 6, Feb 12 – 16
 
 - [Lecture 11: Midterm review](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture11.pdf)
-- Lecture 12: Midterm exam
+- Lecture 12: Midterm exam ([answers](https://github.com/bioe-ml-w18/bioe-ml-winter2018/blob/master/homeworks/Midterm.pdf))
 - [Lab: Implementation](https://classroom.github.com/a/ajf6V2o1) of [Perelson et al.](http://science.sciencemag.org/content/271/5255/1582) <!-- dynamical models -->
 - Deadline to choose project subject 
 
