@@ -43,7 +43,7 @@ layout: page
 
 - [Lecture 11: Midterm review](https://bioe-ml-w18.github.io/prog-class/Wk6-Lecture11.pdf)
 - Lecture 12: Midterm exam ([answers](https://github.com/bioe-ml-w18/bioe-ml-winter2018/blob/master/homeworks/Midterm.pdf))
-- [Lab: Implementation](https://classroom.github.com/a/ajf6V2o1) of [Perelson et al.](http://science.sciencemag.org/content/271/5255/1582) <!-- dynamical models -->
+- [Lab: Implementation](https://classroom.github.com/a/ajf6V2o1) of [Perelson et al.](http://science.sciencemag.org/content/271/5255/1582) ([Solution](https://github.com/bioe-ml-w18/bioe-ml-winter2018/blob/master/homeworks/Week6-DynamicalModels.ipynb))
 - Deadline to choose project subject 
 
 ### Week 7, Feb 19 – 23
@@ -63,7 +63,6 @@ layout: page
 
 - [Lecture 17: Regression forests, boosting, and bagging](https://bioe-ml-w18.github.io/prog-class/Wk9-Lecture17.pdf)
 - [Lecture 18: Creating the future: Neural networks, and t-SNE](https://bioe-ml-w18.github.io/prog-class/Wk9-Lecture18.pdf)
-- [Lab: Implementation](https://classroom.github.com/a/uA9k8R5a) of decision trees
 
 ### Week 10, Mar 12 – 16
 
