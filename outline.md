@@ -50,19 +50,19 @@ layout: page
 
 - [Lecture 13: Clustering](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture13.pdf)
 - [Lecture 14: Autodiff and Clustering Cont'd](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture14.pdf)
-- [Lab: Implementation](https://classroom.github.com/a/ieTKwxuj) of HMMs for heart rate monitor wearable
+- [Lab: Implementation](https://classroom.github.com/a/ieTKwxuj) of HMMs for heart rate monitor wearable (Due March 9)
 
 ### Week 8, Feb 26 – Mar 2
 
 - Reading: [Points of Significance: Classification and regression trees](https://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4370.html)
 - [Lecture 15: Decision trees](https://bioe-ml-w18.github.io/prog-class/Wk8-Lecture15.pdf)
 - [Lecture 16: Support vector machines](https://bioe-ml-w18.github.io/prog-class/Wk8-Lecture16.pdf)
-- [Lab: Implementation](https://classroom.github.com/a/lYxpYYdS) of [Masaeli et al.](https://www.nature.com/articles/srep37863) <!-- SVM -->
 
 ### Week 9, Mar 5 – 9
 
 - [Lecture 17: Regression forests, boosting, and bagging](https://bioe-ml-w18.github.io/prog-class/Wk9-Lecture17.pdf)
 - [Lecture 18: Creating the future: Neural networks, and t-SNE](https://bioe-ml-w18.github.io/prog-class/Wk9-Lecture18.pdf)
+- [Lab: Implementation](https://classroom.github.com/a/lYxpYYdS) of [Masaeli et al.](https://www.nature.com/articles/srep37863) <!-- SVM -->
 
 ### Week 10, Mar 12 – 16
 
