@@ -48,7 +48,7 @@ layout: page
 
 ### Week 7, Feb 19 – 23
 
-- [Lecture 13: Clustering](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture13.pdf)
+- [Lecture 13: Clustering](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture13.pdf) ([Example Notebook](https://github.com/bioe-ml-w18/bioe-ml-winter2018/blob/master/homeworks/K-Means.ipynb))
 - [Lecture 14: Autodiff and Clustering Cont'd](https://bioe-ml-w18.github.io/prog-class/Wk7-Lecture14.pdf)
 - [Lab: Implementation](https://classroom.github.com/a/ieTKwxuj) of HMMs for heart rate monitor wearable (Due March 9)
 
